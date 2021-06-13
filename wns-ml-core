@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WNS Core Machine Learning Library</title>
+  </head>
+  <body>
+    <h1>WNS UTILITIES</h1>
+    <a href="git+ssh://git@github.com/sheltek/wns_ml_core@develop#egg=wns_ml_core-0.0.1" data-requires-python="&gt;=3.6.0">wns_ml_core-0.0.1</a><br/>
+
+  </body>
+</html>
